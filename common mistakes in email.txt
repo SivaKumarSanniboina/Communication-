@@ -1,0 +1,68 @@
+called - contacted
+ensure means making taking promise
+assure means giving promise
+said me - conveyed me,informed me
+1. I would like to remind everyone that Mr. Lewis, a prospective client would be visiting the office next Tuesday. He will be in the office from 9 am till noon. I would appreciate if all of us could dress in business professional attire during his visit for all of us to make a good impression.
+2. I connected / contacted Sandra’s office and conversed / discussed with her secretary / to her secretary. She informed / conveyed me that Sandra would be available / back at 3 pm. Kindly let me know whether to call her again this afternoon to discuss the new proposal / Kindly let me know whether it is required / essential to call her again to discuss the new proposal.
+kindly let me know whether I should proceed with the task or not
+3.I would like to thank you for inviting me to the event / Thanks for inviting me to the event. Kindly let me know whether it would be possible / feasible to share the address for me to get the directions. Looking forward to meet you / Looking forward to see you.I look forward to seeing you.
+
+Looking forward to seeing you is a wrong usage.
+
+4. Thanks for sending / sharing / providing the potential travel itineraries. I would be comfortable / flexible / adaptable with any flight available. I would prefer with any flight available.   
+However, I would like to opt / would prefer for the hotel in the city center which would be close to the venue where the convention is being held.
+5. With reference / with regard to / In regard to the order number CS4789, it appears / It has been stated / has been noted / It has been noticed / observed that the amount due is exceedingly / enormously high. Please find attached the copy of the invoice for your reference. Kindly review it and ensure whether the amount is correct.
+
+6. Kindly cross check and confirm / Kindly check and let me know whether everyone had the chance to review all the information in the employee handbook. Kindly contact your manager for further clarifications if any.
+
+7. I have been working as a freelance software developer for the past few years. I would be interested to work in a full time position with your company after being self employed for many years.
+
+8. We are pleased / glad / delighted to inform / announce that we have initiated / commenced / introduced / established business with a new client. We would be handling customer service calls for a cable company from February / in February in the United States. We are elated / delighted / happy to inform that our company is flourishing / expanding / evolving / developing / advancing.
+
+9. Kindly let me know whether it would be possible / feasible for you to send / share some information / some details about the shipping options. I am figuring out a way to ensure the products to arrive soon. We would require these items by the end of the month at the latest.
+
+10. Dear Jerry, I would be forwarding / I would like to redirect you a query from one of our customers. Kindly check and let me know whether you would be able to respond him as soon as possible.
+
+11. We would like to inform you that we have decided to consider your candidature / application for future positions if any. We thank you for your interest in our company and we wish you the best for your future.
+
+12. I would require your assistance to complete this project as I find it challenging to complete it by end of the day today. Kindly let me know your availability to assist me on the same.
+
+13. Please be informed that we would be offering full time positions to our interns in regard to the discussion we had today. Kindly let us know your availability to meet on Friday to discuss the compensation packages.
+
+14. With regard to our year end celebration, I agree that we should hold the event in the city. 
+I believe many people had expressed their views last year about their challenges to commute far for the event.
+
+
+
+
+
+
+
+Points to be considered while writing formal mails 
+1. Avoid using connectors like so, so that etc while framing sgentences especially in e mails.
+   Instead use better connectors like – for which, due to which, in order to, etc. 
+   Please note that connectors are the one’s which joins the sentences. One cannot start the sentence using these connectors. 
+2. In E mails, questions cannot be raised directly. The question based sentences or interrogative sentences has to be rephrased into an affirmative sentence. 
+3. Do make use of formal words while writing mails. The sentences in conversational English or informal English has to be rephrased into a written formal tone. 
+   The choice of words play a vital role while drafting an e mail. Do look for formal usages of words. 
+4. Avoid writing mails in negative tone. Negative sentences needs to be converted into positive sentences with proper choice of words.
+
+
+
+
+
+
+
+
+
+
+
+EMAIL EXAMPLE::: (My Assumption)
+
+1)Project Status - Order Management System
+
+I would like to keep you updated about the project status - Order Management System which is being developed using Mainframes.
+I created Two input files based on the requirement and i had added the data also.
+I completed the business logic code in COBOL based on requirement and I am trying to rectify some errors.
+
+
